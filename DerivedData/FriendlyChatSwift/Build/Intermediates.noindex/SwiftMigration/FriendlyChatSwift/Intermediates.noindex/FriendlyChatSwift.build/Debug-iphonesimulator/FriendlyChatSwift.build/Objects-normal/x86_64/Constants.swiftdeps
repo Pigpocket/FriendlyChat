@@ -1,0 +1,219 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Constants"
+provides-nominal:
+- "17FriendlyChatSwift9ConstantsV"
+- "17FriendlyChatSwift9ConstantsV16NotificationKeysV"
+- "17FriendlyChatSwift9ConstantsV13MessageFieldsV"
+provides-member:
+- ["17FriendlyChatSwift9ConstantsV", ""]
+- ["17FriendlyChatSwift9ConstantsV16NotificationKeysV", ""]
+- ["17FriendlyChatSwift9ConstantsV13MessageFieldsV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Constants"
+- "StringLiteralType"
+depends-member:
+- ["s23BidirectionalCollectionP", "init"]
+- ["s7CVarArgP", "init"]
+- ["s10CollectionP", "init"]
+- ["s10ComparableP", "init"]
+- ["17FriendlyChatSwift9ConstantsV", "MessageFields"]
+- ["17FriendlyChatSwift9ConstantsV", "NotificationKeys"]
+- ["17FriendlyChatSwift9ConstantsV", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s9DecodableP", "init"]
+- ["s9EncodableP", "init"]
+- ["s9EquatableP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s8HashableP", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["17FriendlyChatSwift9ConstantsV13MessageFieldsV", "imageUrl"]
+- ["17FriendlyChatSwift9ConstantsV13MessageFieldsV", "init"]
+- ["17FriendlyChatSwift9ConstantsV13MessageFieldsV", "name"]
+- ["17FriendlyChatSwift9ConstantsV13MessageFieldsV", "text"]
+- ["s10MirrorPathP", "init"]
+- ["So8NSCodingP", "init"]
+- ["So9NSCopyingP", "init"]
+- ["So21NSItemProviderReadingP", "init"]
+- ["So21NSItemProviderWritingP", "init"]
+- ["So16NSMutableCopyingP", "init"]
+- ["So16NSObjectProtocolP", "init"]
+- ["So14NSSecureCodingP", "init"]
+- ["So8NSStringC", "init"]
+- ["17FriendlyChatSwift9ConstantsV16NotificationKeysV", "SignedIn"]
+- ["17FriendlyChatSwift9ConstantsV16NotificationKeysV", "init"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- ["s8SequenceP", "init"]
+- ["SS", "init"]
+- ["s14StringProtocolP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s23_BidirectionalIndexableP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- ["s10_IndexableP", "init"]
+- ["s14_IndexableBaseP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s26_RangeReplaceableIndexableP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "s23BidirectionalCollectionP"
+- "s7CVarArgP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "17FriendlyChatSwift9ConstantsV"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- "s25LosslessStringConvertibleP"
+- "17FriendlyChatSwift9ConstantsV13MessageFieldsV"
+- "s10MirrorPathP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So16NSMutableCopyingP"
+- "So16NSObjectProtocolP"
+- "So14NSSecureCodingP"
+- "So8NSStringC"
+- "17FriendlyChatSwift9ConstantsV16NotificationKeysV"
+- "s26RangeReplaceableCollectionP"
+- "s8SequenceP"
+- "SS"
+- "s14StringProtocolP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "s23_BidirectionalIndexableP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "s26_RangeReplaceableIndexableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/tomassidenfaden/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/tomassidenfaden/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Users/tomassidenfaden/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Users/tomassidenfaden/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Users/tomassidenfaden/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Users/tomassidenfaden/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Users/tomassidenfaden/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Users/tomassidenfaden/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Users/tomassidenfaden/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Users/tomassidenfaden/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Users/tomassidenfaden/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/tomassidenfaden/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Users/tomassidenfaden/Downloads/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseUI/FirebaseUIFrameworks/FirebaseAuthUI/Frameworks/FirebaseAuthUI.framework/Headers/FirebaseAuthUI.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageMetadata.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserMetadata.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/Fabric/iOS/Fabric.framework/Headers/Fabric.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageReference.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorage.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FirebaseStorage.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/Firebase/Core/Sources/Firebase.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthUIDelegate.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseRemoteConfig/Frameworks/FirebaseRemoteConfig.framework/Headers/FIRRemoteConfig.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseRemoteConfig/Frameworks/FirebaseRemoteConfig.framework/Headers/FirebaseRemoteConfig.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseUI/FirebaseUIFrameworks/FirebaseAuthUI/Frameworks/FirebaseAuthUI.framework/Headers/FUIAuth.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTask.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseUI/FirebaseUIFrameworks/FirebaseAuthUI/Frameworks/FirebaseAuthUI.framework/Headers/FUIAuthProvider.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseUI/FirebaseUIFrameworks/FirebaseAuthUI/Frameworks/FirebaseAuthUI.framework/Headers/FUIAuthBaseViewController.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseUI/FirebaseUIFrameworks/FirebaseAuthUI/Frameworks/FirebaseAuthUI.framework/Headers/FUIPasswordSignInViewController.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseUI/FirebaseUIFrameworks/FirebaseAuthUI/Frameworks/FirebaseAuthUI.framework/Headers/FUIPasswordVerificationViewController.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseUI/FirebaseUIFrameworks/FirebaseAuthUI/Frameworks/FirebaseAuthUI.framework/Headers/FUIPasswordSignUpViewController.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseUI/FirebaseUIFrameworks/FirebaseAuthUI/Frameworks/FirebaseAuthUI.framework/Headers/FUIAuthPickerViewController.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseUI/FirebaseUIFrameworks/FirebaseAuthUI/Frameworks/FirebaseAuthUI.framework/Headers/FUIPasswordRecoveryViewController.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseUI/FirebaseUIFrameworks/FirebaseAuthUI/Frameworks/FirebaseAuthUI.framework/Headers/FUIEmailEntryViewController.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/Fabric/iOS/Fabric.framework/Headers/FABAttributes.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRActionCodeSettings.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseUI/FirebaseUIFrameworks/FirebaseAuthUI/Frameworks/FirebaseAuthUI.framework/Headers/FUIAuthErrorUtils.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseUI/FirebaseUIFrameworks/FirebaseAuthUI/Frameworks/FirebaseAuthUI.framework/Headers/FUIAuthErrors.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageConstants.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsSwiftNameSupport.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseUI/FirebaseUIFrameworks/FirebaseAuthUI/Frameworks/FirebaseAuthUI.framework/Modules/module.modulemap"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/Fabric/iOS/Fabric.framework/Modules/module.modulemap"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Modules/module.modulemap"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseRemoteConfig/Frameworks/FirebaseRemoteConfig.framework/Modules/module.modulemap"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+interface-hash: "7927a25f1b8d3fe59c71e9b8f3cf872c"

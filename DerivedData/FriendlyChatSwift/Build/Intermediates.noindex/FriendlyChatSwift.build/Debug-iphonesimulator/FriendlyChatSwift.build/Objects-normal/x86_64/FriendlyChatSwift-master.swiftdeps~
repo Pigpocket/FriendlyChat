@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "d9825ec5dd73a84b90576fd1e3d7715a"
+build_time: [1516830246, 617084000]
+inputs:
+  "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/FriendlyChatSwift/FCViewController.swift": [1516827682, 0]
+  "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/FriendlyChatSwift/AppDelegate.swift": [1516827636, 0]
+  "/Users/tomassidenfaden/Projects/ios-nd-firebase-master/FriendlyChat/FriendlyChatSwift/Constants.swift": [1513026456, 0]
